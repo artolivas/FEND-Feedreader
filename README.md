@@ -1,4 +1,4 @@
-# Project Overview
+# WELCOME!
 
 I was given a web-based application that reads RSS feeds. The original developer of this application left me with an application with an incomplete test suite. That's where you come in
 
