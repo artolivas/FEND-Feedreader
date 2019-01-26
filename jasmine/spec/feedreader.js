@@ -1,5 +1,5 @@
 $(function() {
-    /* This is our first test suite - a test suite just contains
+    /* Test suite - a test suite just contains
     * a related set of tests. This suite is all about the RSS
     * feeds definitions, the allFeeds variable in our application.
     */
